@@ -84,6 +84,12 @@ h2{
     text-align: center;
     color: white;
   }
+h3{
+    font-family: monospace;
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
   a{
     color: greenyellow;
   }
